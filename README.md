@@ -6,10 +6,11 @@ Instagram SSL Pinning Bypass and intercept Instagram Traffic.
 
 ## 🎥 Evidence 
 
-<img width="720" height="1640" alt="Image" src="https://github.com/user-attachments/assets/7bc072e2-331d-4550-9c40-38243d00bfbe" />
+<img width="720" height="1640" alt="Image" src="https://github.com/user-attachments/assets/de4094e5-d888-43d4-8846-4bdcabd25151" />
 
 
-▶️ [Watch the Demonstration](https://github.com/user-attachments/assets/c3bb3f56-48cd-4a80-8826-9f5f4848b157)
+
+▶️ [Watch the Demonstration]()
 
 ---
 
